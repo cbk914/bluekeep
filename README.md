@@ -20,4 +20,4 @@ Run the script by providing a list of target IP addresses as space-separated arg
   
 The script will display the results for each IP address, indicating whether it is likely vulnerable to BlueKeep, patched, or not up/accessible.
 
-Please note that scanni
+Please note that scanning IP addresses without proper authorization may be illegal in some jurisdictions. Use this script responsibly and only for authorized purposes.  
